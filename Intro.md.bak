@@ -3,3 +3,6 @@ Notepad is a simple text editor
 
 ## How does checkout work
 Testing it
+
+# Branch
+Changes made in Branch

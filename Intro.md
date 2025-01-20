@@ -6,3 +6,6 @@ Testing it
 
 # Branch
 Changes made in Branch
+
+## Using pull request
+will merge to main branch using pull request.
